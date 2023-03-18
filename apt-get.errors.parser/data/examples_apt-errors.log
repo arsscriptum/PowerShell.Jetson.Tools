@@ -1,0 +1,1195 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  xball
+0 upgraded, 1 newly installed, 0 to remove and 1 not upgraded.
+15 not fully installed or removed.
+Need to get 0 B/32.6 kB of archives.
+After this operation, 122 kB of additional disk space will be used.
+Selecting previously unselected package xball.
+dpkg: warning: files list file for package 'libvisionworks-tracking-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopencv4tegra' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libblas-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-regex-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libblas3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfaad2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xorg-docs-core' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-urllib3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-debian' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwebp5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-pnm2ppa' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vim-tiny' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gvfs-fuse' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'isc-dhcp-client' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'pulseaudio' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hardening-includes' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmpfr4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vlc-plugin-notify' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5network5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-sfm' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'cuda-repo-l4t-r21.5-6-5-local' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-tracking' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgee-0.8-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaudio2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgoogle-glog-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnl-route-3-200:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpam-runtime' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtxc-dxtn-s2tc0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libstartup-notification0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-gnomekeyring' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcogl-pango15:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpthread-stubs0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libacl1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libminiupnpc8' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vlc-nox' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xkb-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-foo2zjs' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnetfilter-conntrack3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hostname' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgdk-pixbuf2.0-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libiec61883-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'passwd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsasl2-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsasl2-modules:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'obexd-client' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libkate1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gvfs-libs:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-brlapi' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-tdb' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgnomekbd-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcwidget3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvo-amrwbenc0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpipeline1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-gutenprint' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgstreamer-plugins-bad1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-video-remote' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgfortran3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ureadahead' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libavahi-core7:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmysqlclient18:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'telepathy-idle' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-postscript-hp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'upstart' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdrm-amdgpu1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-render0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'keyboard-configuration' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libijs-0.35' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxaw7:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11-xserver-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxdamage1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblapack-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcurl3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libasan0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnss3-1d:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libleveldb1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-designer:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-control-center' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vlc-plugin-pulse' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-datetime' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopus0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'kbd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-thread1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-sfm-docs' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5sql5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxtables10' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-cups' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-lens-applications' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdrm-nouveau2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'yelp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libofa0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhpmud0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'plymouth' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtbb-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-sync1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'squashfs-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfolks25:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'plymouth-label' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libappindicator3-1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopenexr6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libavahi-gobject0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libchromaprint0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnl-genl-3-200:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtirpc1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'smbclient' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5positioning5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-markupsafe' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsnappy1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libschroedinger-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'webapp-container' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgs9-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5qml5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqtwebkit4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxmu6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-release-upgrader-core' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtcl8.6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnautilus-extension1a' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfs6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgusb2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaccountsservice0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unattended-upgrades' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'whoopsie' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xdg-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-lxml' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcanberra-pulse:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'im-config' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libindicator3-7' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblouis2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-context1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'lmdb-doc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgutenprint2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsndfile1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxfixes3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'signon-plugin-password' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'wireless-regdb' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'net-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxdamage-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-test1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopenal1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xul-ext-websites-integration' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgail18:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11-apps' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-coroutine1.54-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'rtkit' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgmime-2.6-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtevent0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libisccc90' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaccounts-glib0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-locale1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxmu-headers' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libclutter-1.0-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwhoopsie0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libalgorithm-diff-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnewt0.52:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-sfm-repo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liboauth0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbrlapi0.6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ntp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpoppler-glib8:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libebackend-1.2-7' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgsettings-qt1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-voice-service:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-chardet' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnm-gtk-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-sounds' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mawk' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libicu52:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-serial' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvncserver0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'language-pack-en-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liborc-0.4-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-webapps-qml' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libterm-ui-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcomerr2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ibus' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgoa-1.0-0b:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-python-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-lens-files' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpaper-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnux-4.0-0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-wallpapers' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'librsvg2-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgme0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfakeroot:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-clutter' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-alsa:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgnome-menu-3-0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgexiv2-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-xinerama-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libalgorithm-diff-xs-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdbusmenu-gtk3-4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhybris-common1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'transmission-gtk' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgoogle-perftools4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'nautilus-sendto-empathy' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-present0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libarchive-extract-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgl1-mesa-glx:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libproxy-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'wget' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'telepathy-logger' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfolks-eds25:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcdio-paranoia1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgstreamer1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'samba-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfile-fcntllock-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgs9' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libkrb5support0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'lintian' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopencv4tegra-repo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xaw3dg:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xfonts-scalable' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libassuan0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-smbc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libharfbuzz0b:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgnutls-openssl27:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3.4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsystemd-login0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-chrono1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'keyutils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'guile-2.0-libs' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libarchive-zip-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-sound' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'klibc-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-gobject-2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbasicusageenvironment0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopencc1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtar0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-zotero' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'librtmp0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-ptouch' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtext-soundex-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtiff5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libglapi-mesa:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libshout3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ttf-punjabi-fonts' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsecret-1-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-glx0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-present-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vlc-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtk2.0-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpulse0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblockfile-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgeis1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libupower-glib1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libswscale2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'systemd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-kb-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsecret-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-randr-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5widgets5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-render0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'linux-image-generic-lts-xenial' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python2.7-minimal' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-yelp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hdparm' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtheora0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-log1.54-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libidn11:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sed' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libspeexdsp1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libzeitgeist-2.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpcap0.8:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmpc3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-test-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-dbus:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'krb5-locales' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdaemon0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'samba-vfs-modules' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xfonts-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-defer' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhwloc-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgcr-base-3-1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaacs0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libattr1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xinit' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxi6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-math-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdevmapper1.02.1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'usbutils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjbig0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'intltool-debian' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbamf3-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcairomm-1.0-1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxft-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsoundtouch0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-script:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsonic0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libass4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-plugins-bad-videoparsers:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfreerdp1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdca0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtwolame0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-musique' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'initramfs-tools-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpango1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'patch' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-samba' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-mpi-python1.54.0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopenjpeg2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'openssh-sftp-server' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libportaudio2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'humanity-icon-theme' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'plainbox-provider-resource-generic' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libproxy1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-oneconf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-artwork' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-firefoxbookmarks' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdirectfb-1.2-9:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libglu1-mesa-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libyelp0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-piston-mini-client' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'simple-scan' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxt-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpulsedsp:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpam-gnome-keyring:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'remmina-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'iproute' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-sql-mysql:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libarchive13:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-ldb' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer0.10-plugins-bad:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwacom-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnet-dns-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libexpat1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libltdl7:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'plymouth-theme-ubuntu-logo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'logrotate' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvorbisenc2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'parted' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'telepathy-haze' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libudisks2-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcgraph6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libkeyutils1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvcdinfo0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'icu-devtools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjpeg-turbo8:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libleveldb-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-render-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-cairo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-thread-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ppp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-pyatspi' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopencv4tegra-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfarstream-0.2-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnspr4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libegl1-mesa-drivers:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-iostreams1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-regex1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtdeclarative5-dialogs-plugin:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-network:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'lockfile-progs' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3.4-minimal' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwind0-heimdal:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-dri2-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-xf86vidmode-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-randr0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'rsync' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmpcdec6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-keyboard' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libprotobuf-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vim' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libplymouth2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-xkb1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-mpi-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libncurses5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5feedback5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qt-at-spi:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libreadline6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libreadline5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-video-vesa' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgd3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcamel-1.2-45' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5multimedia5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'pm-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liburl-dispatcher1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtdeclarative5-ubuntu-ui-toolkit-plugin:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-input-synaptics' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mysql-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-pycurl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnice10:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-louis' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'samba-libs:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'remmina' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgdata-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcanberra-gtk3-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcups2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmodplug1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libuuid-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtk-3-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpyzy-1.0-0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpangocairo-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpam-systemd:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpixman-1-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtext-iconv-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsqlite3-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmission-control-plugins0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-x:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-clementine' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcdio13' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcairo-gobject2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcogl-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libasound2-plugins:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'pcmciautils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mount' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'system-config-printer-udev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sphinx-voxforge-lm-en' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'poppler-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libunity-control-center1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-mpi-python-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hud' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'librsync1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libspeechd2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsystemd-daemon0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnux-4.0-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-talloc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mesa-common-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbluetooth3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsmbclient:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libieee1284-3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgpgme11:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libasound2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcdio-cdda1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-crypto' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcddb2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'samba-dsdb-modules' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libyaml-tiny-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcgmanager0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-sso-client' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgirepository-1.0-1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libebml4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgphoto2-port10:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'totem-mozilla' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwmf0.2-7:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdv4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxv1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqtdbus4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhcrypto4-heimdal:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'metacity-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ocl-icd-libopencl1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-signals-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost1.54-tools-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmbim-glib0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-glx0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gvfs-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libzbar0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gtk3-engines-unico:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libklibc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-fixes-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mousetweaks' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvte-2.90-9' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsys-hostname-long-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libice-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-log1.54.0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcomposite1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdebconfclient0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libck-connector0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libebook-contacts-1.2-0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmetacity-private0a' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgcc1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'landscape-client-ui-install' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblog-message-simple-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-control-center-signon' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcheese-gtk23:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libraptor2-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsm-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libubuntu-platform-hardware-api1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-gtk2-module:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ttf-indic-fonts-core' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgoogle-glog0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'policykit-1-gnome' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'manpages' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpwquality-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'network-manager-pptp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libharfbuzz-icu0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python2.7' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-filesystem1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libubuntu-location-service0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-math1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-dbus-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libisl10:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfolks-telepathy25:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'locales' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-graph-parallel-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5gui5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5sql5-sqlite:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'librest-0.7-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmms0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgcc-4.8-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-video-all' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfontconfig1-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcupsmime1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gsfonts' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libapt-inst1.5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libglu1-mesa:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libevdocument3-4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'os-prober' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcanberra-gtk3-module:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxrandr2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libburn4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmailtools-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-bluetooth' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-graph-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libapt-pkg-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libespeak1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libunity9:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcdt5' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-openclipart' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libroken18-heimdal:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-requests' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'zlib1g:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxi-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvpx1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcupsfilters1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-sso-client-qt' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfribidi0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwayland-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'netcat-openbsd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-xfixes0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libio-socket-inet6-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'nautilus-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-renderpm' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-aptdaemon.gtk3widgets' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqtcore4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-session' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmount1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-sync-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-oauthlib' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhx509-5-heimdal:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdecoration0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'totem' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdrm-radeon1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcap2-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnet-domain-tld-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblcms2-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liburi-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsdl-image1.2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-gdbm' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtdeclarative5-qtquick2-plugin:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'telepathy-indicator' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ibus-pinyin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'rhythmbox' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgettextpo0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'tar' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libimobiledevice4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtdb1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgnome-keyring-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libkmod2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-pexpect' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtk-3-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxpm4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjpeg-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-xdg' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'rpcbind' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpango-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-gi' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'remmina-plugin-vnc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libibverbs-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libthai-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'resolvconf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdotconf0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwebpmux1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-xext-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdrm-omap1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'linux-libc-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'openmpi-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libprocess-cpp1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5xml5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsnmp-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfile-mimeinfo-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwnck-3-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libept1.4.12:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-input-evdev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtag1-vanilla:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpolkit-agent-1-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libasprintf-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libatasmart4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtk2.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgstreamer-plugins-base0.10-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-foo2zjs-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libva1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-min12xxw' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-icccm4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-context1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ttf-ubuntu-font-family' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'usb-modeswitch' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libthai0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'zeitgeist' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-tracking-repo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libenchant1c2a:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'overlay-scrollbar' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'software-center' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxfont1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-video-fbdev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libapt-pkg4.12:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtop2-7' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtk8.6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-svg:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libc-dev-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblua5.2-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'transmission-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'kmod' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpython3.4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libkpathsea6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mountall' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxrender1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblzo2-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-wave-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpurple-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gvfs-backends' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hunspell-en-us' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsgutils2-2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpurple0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11-session-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdpkg-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libts-0.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-atomic1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libogg0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xterm' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libusb-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5quick5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxext6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxxf86dga1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libunity-action-qt1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ssh-askpass-gnome' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhogweed2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-speechd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libasound2-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'systemd-services' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsemanage1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblmdb0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ifupdown' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfriends0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-input-wacom' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfontconfig1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbz2-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'rhythmbox-plugins' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-context-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxrandr-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'obex-data-server' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libudev1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libavahi-glib1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'tzdata' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdrm-freedreno1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpam-modules:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libelfg0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaspell15' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwebkitgtk-3.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libatlas-base-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsepol1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-lens-photos' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpulse-mainloop-glib0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ntfs-3g' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtotem-plparser18' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgsm1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'whiptail' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-all-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpython-stdlib:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'signond' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgcr-3-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdrm2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-serialization1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmagic1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'netbase' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnss3-nssdb' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libestr0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-timer1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhud2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdirac-encoder0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scopes-master-default' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgupnp-igd-1.0-4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libk5crypto3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-declarative:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgdata13' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb1-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'librdf0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-xorg-core' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgssglue1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-thread1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgrail6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjson-c2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfreeimage3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-oneconf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-sfm-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgstreamer1.0-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgc1c2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'telepathy-gabble' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-asset-pool' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxres1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'manpages-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnatpmp1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgstreamer-plugins-good1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpango1.0-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libperlio-gzip-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdbus-glib-1-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libunistring0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'rfkill' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'session-migration' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvlc5' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-render-util0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libprocps3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'pciutils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopenal-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsignon-extension1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxdmcp-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-gdrive' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdigest-hmac-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5test5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxslt1.1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblapack3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sgml-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-system1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'policykit-desktop-privileges' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdconf1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'onboard-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmtp9:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'telepathy-mission-control-5' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-appmenu' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-plugins-base:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcairo2-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libusbmuxd2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxrender-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'zeitgeist-core' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libicu-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-settings' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtimedate-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hdf5-helpers' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpython3-stdlib:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liberror-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-webapps-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libutempter0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sysv-rc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgdk-pixbuf2.0-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgrip0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'perl-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ncurses-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtelepathy-glib0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xorg' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsphinxbase1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libical1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libharfbuzz-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnet-ip-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgdk-pixbuf2.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmatroska6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgvpr2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcloog-isl4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libglib2.0-data' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-gi' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-exception1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-hpcups' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'modemmanager' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'openssl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'language-selector-gnome' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-requests' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdmapsharing-3.0-2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-sql:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtdeclarative5-unity-action-plugin:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-power' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'linux-headers-4.4.0-148' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgweather-3-6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwavpack1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'vim-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libstdc++-4.8-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libproxy1-plugin-networkmanager:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liba52-0.7.4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'oneconf-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'nfs-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnotify4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcolumbus1-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libc6-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnm-util2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcanberra-gtk-module:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-dri2-0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsamplerate0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libunity-scopes-json-def-desktop' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-atomic1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'init-system-helpers' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblmdb-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-services' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ssl-cert' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libx11-xcb-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcrack2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtksourceview-3.0-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgudev-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-qt4-dbus' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xdg-user-dirs-gtk' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'update-inetd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-twisted-web' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgail-3-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgpod4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'lsb-release' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxkbfile1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-tracking-docs' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblwres90' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwacom2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxext-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfile-basedir-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxss1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-filesystem-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libflite1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'speech-dispatcher-audio-plugins:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scopes-runner' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-gl-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsystemd-journal0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwbclient0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtelepathy-logger3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sphinx-voxforge-hmm-en' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libexpat1-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'system-config-printer-gnome' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'whoopsie-preferences' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-pyparsing' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hicolor-icon-theme' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcdaudio1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwayland-server0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-defer' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt4-sql-sqlite:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxapian22' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'iw' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sensible-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwebkitgtk-3.0-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-apt' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'seahorse' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcolorhug1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'webaccounts-extension-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgl1-mesa-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtcmalloc-minimal4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'perl-modules' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ucf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtdeclarative5-window-plugin:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libedata-cal-1.2-23' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdbusmenu-glib4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'psmisc' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-lens-video' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgpg-error0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpython2.7:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libavc1394-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libusb-0.1-4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxfixes-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libclutter-gtk-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5opengl5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-audacious' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpci3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-randr0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpam0g:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpeas-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpopt0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-reportlab' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libauthen-sasl-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgraphite2-3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'wamerican' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ncurses-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'tcl8.6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-pil' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-zope.interface' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-extras-keyring' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'liblivemedia23' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'nautilus-share' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libv4l-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpython3.4-minimal:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mpi-default-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'indicator-printers' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'qtcore4-l10n' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfuse2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwildmidi1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdvdread4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-ibus' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-minimal' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'mscompress' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-util0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgssapi-krb5-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libspeex1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-system1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqtgui4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-iostreams1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcairo-script-interpreter2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libllvm3.4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'linux-image-4.4.0-148-generic' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgles2-mesa:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ibus-gtk:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-aptdaemon' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-pycurl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgconf-2-4:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libunityvoice1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtksourceview-3.0-1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpocketsphinx1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgeoip1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'language-pack-en' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'wpasupplicant' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer0.10-nice:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-coroutine-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'procps' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjavascriptcoregtk-3.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'metacity' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxinerama-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libp11-kit-gnome-keyring:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libparted0debian1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsoup-gnome2.4-1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcurl3-gnutls:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'lsb-base' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsoup2.4-1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtasn1-6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpathplan4' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'tk8.6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libspandsp2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaio1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libedataserver-1.2-18' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtop2-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libuuid1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libatomic1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxinerama1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsdl1.2debian:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxkbcommon-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'locate' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libc6-dbg:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'isc-dhcp-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-filesystem1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libwildmidi-config' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmpdec2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-serialization-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-pulseaudio:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxshmfence1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-dbus' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'signon-plugin-oauth2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xcursor-themes' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-virtualbox' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaccounts-qt5-1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libframe6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgcrypt11:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libupnp6' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libavcodec54:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libexif12:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgdbm3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'pulseaudio-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libcairo2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-shape0-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sound-theme-freedesktop' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbrasero-media3-1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'man-db' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libffi6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libenca0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'module-init-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libflac8:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvorbisfile3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libperl5.18' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpeas-1.0-0' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libdbus-1-3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libzvbi-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-samples' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgnome-control-center1' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libssl1.0.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-dbus' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-home' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'login' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11-xkb-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfarstream-0.1-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer0.10-plugins-base-apps' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxml2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'laptop-detect' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'p11-kit' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'makedev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'initramfs-tools' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'x11proto-input-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libprotobuf8:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-twisted-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-math1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxmuu1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjpeg8-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libclass-accessor-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxcb-shm0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'samba' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'pulseaudio-module-x11' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gstreamer1.0-plugins-good:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'openprinting-ppds' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'printer-driver-pxljr' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfreetype6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-aptdaemon.gtk3widgets' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sudo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsane:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libmtp-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libopts25:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5organizer5:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsane-hpaio' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnl-3-200:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libevview3-3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libatk1.0-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-locale1.54.0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'webbrowser-app' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-system-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libaccount-plugin-google' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gvfs-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgl1-mesa-dri:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libhdf5-serial-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libxdmcp6:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-random-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libt1-5' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'shared-mime-info' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'iproute2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libthumbnailer0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-iostreams-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libraw1394-11:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-greeter' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpolkit-gobject-1-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libpam-cap:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-sip' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-settings-daemon' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-six' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgtk-3-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ibus-gtk3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libart-2.0-2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libatspi2.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libprotobuf-lite8:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-timer-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libsocket6-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libeigen3-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libelf1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libasprintf0c2:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'gtk2-engines-murrine:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-aptdaemon' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'shotwell' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'unity-scope-devhelp' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'xserver-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtbb2' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'openmpi-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgnomekbd8' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libbluray1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgssdp-1.0-3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libjson-glib-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-docs' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libboost-random1.54-dev:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'hwdata' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'linux-headers-4.4.0-148-generic' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libqt5qml-graphicaleffects:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-lxml' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-ui-toolkit-theme' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libustr-1.0-1:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgflags-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libgpod-common' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'sane-utils' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libclutter-1.0-0:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libtext-wrapi18n-perl' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-repo' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libnotify-bin' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-urllib3' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python3-aptdaemon.pkcompat' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libvisionworks-dev' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'tcpd' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'python-pkg-resources' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'ubuntu-release-upgrader-gtk' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libexempi3:armhf' missing; assuming package has no files currently installed
+dpkg: warning: files list file for package 'libfreeimage-dev' missing; assuming package has no files currently installed
+(Reading database ... 125763 files and directories currently installed.)
+Preparing to unpack .../xball_3.0.1-1.2_armhf.deb ...
+Unpacking xball (3.0.1-1.2) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Setting up libpaper1:armhf (1.1.24+nmu2ubuntu3) ...
+dpkg: error processing package libpaper1:armhf (--configure):
+ subprocess installed post-installation script returned error exit status 10
+Setting up rsyslog (7.4.4-1ubuntu2.7) ...
+dpkg: error processing package rsyslog (--configure):
+ subprocess installed post-installation script returned error exit status 10
+Setting up gconf2-common (3.2.6-0ubuntu2) ...
+dpkg: error processing package gconf2-common (--configure):
+ subprocess installed post-installation script returned error exit status 10
+dpkg: dependency problems prevent configuration of gconf-service-backend:
+ gconf-service-backend depends on gconf2-common (= 3.2.6-0ubuntu2); however:
+  Package gconf2-common is not configured yet.
+
+dpkg: error processing package gconf-service-backend (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of gconf-service:
+ gconf-service depends on gconf-service-backend (= 3.2.6-0ubuntu2); however:
+  Package gconf-service-backend is not configured yet.
+
+dpkg: error processing package gconf-service (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of gconf2:
+ gconf2 depends on gconf-service; however:
+  Package gconf-service is not configured yet.
+ gconf2 depends on gconf-service-backend (= 3.2.6-0ubuntu2); however:
+  Package gconf-service-backend is not configured yet.
+
+dpkg: error processing package gconf2 (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of aisleriot:
+ aisleriot depends on gconf2 (>= 2.28.1-2); however:
+  Package gconf2 is not configured yet.
+ aisleriot depends on gconf-service; however:
+  Package gconf-service is not configured yet.
+
+dpkg: error processing package aisleriot (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of apturl:
+ apturl depends on gconf2 (>= 2.28.1-2); however:
+  Package gconf2 is not configured yet.
+
+dpkg: error processing package apturl (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of compiz-gnome:
+ compiz-gnome depends on gconf2 (>= 2.28.1-2); however:
+  Package gconf2 is not configured yet.
+
+dpkg: error processing package compiz-gnome (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of compiz:
+ compiz depends on compiz-gnome; however:
+  Package compiz-gnome is not configured yet.
+
+dpkg: error processing package compiz (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of gnome-terminal-data:
+ gnome-terminal-data depends on gconf2 (>= 2.28.1-2); however:
+  Package gconf2 is not configured yet.
+
+dpkg: error processing package gnome-terminal-data (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of gnome-terminal:
+ gnome-terminal depends on gconf-service; however:
+  Package gconf-service is not configured yet.
+ gnome-terminal depends on gnome-terminal-data (>= 3.6); however:
+  Package gnome-terminal-data is not configured yet.
+ gnome-terminal depends on gnome-terminal-data (<< 3.7); however:
+  Package gnome-terminal-data is not configured yet.
+
+dpkg: error processing package gnome-terminal (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of gnome-user-share:
+ gnome-user-share depends on gconf2 (>= 2.28.1-2); however:
+  Package gconf2 is not configured yet.
+
+dpkg: error processing package gnome-user-share (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of network-manager-gnome:
+ network-manager-gnome depends on gconf-service; however:
+  Package gconf-service is not configured yet.
+
+dpkg: error processing package network-manager-gnome (--configure):
+ dependency problems - leaving unconfigured
+dpkg: dependency problems prevent configuration of python-gconf:
+ python-gconf depends on gconf-service; however:
+  Package gconf-service is not configured yet.
+
+dpkg: error processing package python-gconf (--configure):
+ dependency problems - leaving unconfigured
+Setting up xball (3.0.1-1.2) ...
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+No apport report written because MaxReports is reached already
+Processing triggers for libc-bin (2.19-0ubuntu6.15) ...
+Errors were encountered while processing:
+ libpaper1:armhf
+ rsyslog
+ gconf2-common
+ gconf-service-backend
+ gconf-service
+ gconf2
+ aisleriot
+ apturl
+ compiz-gnome
+ compiz
+ gnome-terminal-data
+ gnome-terminal
+ gnome-user-share
+ network-manager-gnome
+ python-gconf
+E: Sub-process /usr/bin/dpkg returned an error code (1)
